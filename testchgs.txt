@@ -1,3 +1,5 @@
 This is a test of new git knowledge
 
 Change 1
+
+Delete this line
